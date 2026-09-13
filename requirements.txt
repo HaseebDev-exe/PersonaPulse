@@ -2,3 +2,4 @@ streamlit
 cohere
 chromadb
 sentence-transformers
+tavily-python
