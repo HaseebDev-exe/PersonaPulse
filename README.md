@@ -146,14 +146,6 @@ Open your browser at `http://localhost:8501`.
 
 ---
 
-## 🏆 Hackathon & Demo Links
-
-- **Repository**: [github.com/HaseebDev-exe/PersonaPulse](https://github.com/HaseebDev-exe/PersonaPulse)
-- **Live Streamlit App**: [PersonaPulse Streamlit Deployment](#) *(Replace with live URL)*
-- **Demo Video**: [PersonaPulse 2-Min Walkthrough](#) *(Replace with video link)*
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
