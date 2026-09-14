@@ -61,9 +61,11 @@ logo_img_tag_sidebar = (
 )
 
 
+logo_file_path = get_logo_path()
+
 st.set_page_config(
     page_title="PersonaPulse — Grounded Customer Simulation Engine",
-    page_icon="⚡",
+    page_icon=logo_file_path or "⚡",
     layout="wide",
     initial_sidebar_state="expanded",
 )
